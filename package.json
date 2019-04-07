@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-pg-sample",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^2.6.0",
+    "ejs": "^2.5.7",
+    "pg": "^6.4.2"
+  }
+}
